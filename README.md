@@ -1,4 +1,4 @@
-Orange3 Example Add-on
+Orange3 Polca-Net Add-on
 ======================
 
 This is an example add-on for [Orange3](http://orange.biolab.si). Add-on can extend Orange either 
